@@ -1,1 +1,1 @@
-# Spam-Detection-Project-using-Python
+# Spam-Mail-Detection-Project-using-Python-Django-Machine Learning
