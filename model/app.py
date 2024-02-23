@@ -10,7 +10,7 @@ ps = PorterStemmer()
 app = Flask(__name__)
 
 # Load the model and tf-idf vectorizer
-tfidf = pickle.load(open('tfidf_vectorizer.pkl', 'rb'))
+tfidf = pickle.load(open('vectorizer.pkl', 'rb'))
 model = pickle.load(open('model.pkl', 'rb'))
 
 # Preprocessing function
