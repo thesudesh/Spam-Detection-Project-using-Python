@@ -43,8 +43,7 @@ python manage.py runserver
 
 ## Files
 - `core/`: Django application model for spam detection.
-- `data/`: Sample dataset for training and testing the spam detection model.
-- `models/`: Pre-trained machine learning models saved using Joblib.
+- `data/`: Sample dataset for training and testing the spam detection model and pre-trained machine learning models saved using Joblib.
 - `requirements.txt`: List of Python dependencies required for the project.
  
  
