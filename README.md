@@ -1,5 +1,5 @@
 
-#Spam Detection Project
+# Spam Detection Project
 
 This project is aimed at building a spam detection system using Python, Jupyter Lab, Django, and popular Python libraries such as Pandas, Scikit-learn, and Joblib.
 
