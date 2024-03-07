@@ -48,4 +48,7 @@ python manage.py runserver
  
  
 
-
+## Contributors:
+- Abinash Parajuli
+- Kushal Ghimire
+- Sudesh Acharya
